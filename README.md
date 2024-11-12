@@ -9,6 +9,13 @@ Write the paths of the recordings that meet the requirements into a file.
 
 ## How to use:
 
+### 1. Split wav to segs
+```
+python split_wav.py
+```
+
+
+### 2. Calculate dnsmos-ovr score
 1. cpu:
 ```
 python dnsmos_local.py \
