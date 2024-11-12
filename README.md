@@ -29,7 +29,7 @@ python dnsmos_local.py \
 
 2. gpu:
 ```
-# python dnsmos_local.py \ 
+# python dnsmos_gpu.py \ 
     -mbo bak_ovr.onnx \ 
     -t test_dir/ \ 
     -o ovr_high_score_paths.txt
